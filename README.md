@@ -1,7 +1,11 @@
 Install GitHub on Ubuntu 22.04.3
 
 First, open the terminal and type:
+
 sudo apt -y update 
+
+Next: 
+
 sudo apt -y install git-all
 
 for check the version:

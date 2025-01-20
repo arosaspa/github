@@ -14,5 +14,5 @@ git --version
 In this case is:
 2.34.1
 
-Ready!, and enjoy with Github.
+Ready!, and enjoy with Github for terminal of Linux.
 

@@ -2,11 +2,11 @@ Install GitHub on Ubuntu 24.04
 
 First, open the terminal and type:
 
-sudo apt -y update 
+´´´ sudo apt -y update ´´´
 
 Next: 
 
-sudo apt -y install git-all
+´´´ sudo apt -y install git-all ´´´
 
 for check the version, we have two (2) options:
 

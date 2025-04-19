@@ -9,6 +9,7 @@ Next:
 sudo apt -y install git-all
 
 for check the version, we have two (2) options:
+
 git -v   
 ******************
 git --version

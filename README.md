@@ -1,4 +1,6 @@
 Install GitHub on Ubuntu 24.04
+![image](https://github.com/user-attachments/assets/7643e7ee-dffd-4dc4-bffe-6a854865ce44)
+
 
 First, open the terminal and type:
 

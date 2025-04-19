@@ -12,7 +12,7 @@ for check the version, we have two (2) options:
 
 ```git -v```
 ******************
-git --version
+```git --version```
 
 In this case is:
 git version 2.34.1

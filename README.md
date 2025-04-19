@@ -2,7 +2,7 @@ Install GitHub on Ubuntu 24.04
 
 First, open the terminal and type:
 
-´´´ sudo apt -y update ´´´
+```sudo apt -y update```
 
 Next: 
 
@@ -10,7 +10,7 @@ Next:
 
 for check the version, we have two (2) options:
 
-git -v   
+```git -v```
 ******************
 git --version
 

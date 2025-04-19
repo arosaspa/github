@@ -6,7 +6,7 @@ First, open the terminal and type:
 
 Next: 
 
-´´´ sudo apt -y install git-all ´´´
+```sudo apt -y install git-all```
 
 for check the version, we have two (2) options:
 
